@@ -1,0 +1,51 @@
+body {
+    color: burlywood;
+    background-color: burlywood;
+}
+
+/* Classes */
+/* divs */
+.Wit {
+    display: inline-block;
+    background-color: white;
+    color: green;    
+    margin: auto;    
+    padding: 5px;
+}
+
+/* img's */
+
+
+/* id's */
+#Navbar {
+    background-color: green;
+}
+
+#Titel {
+    background-color: green;
+    font-size: xx-large;
+    text-align: center;
+    padding: 30px;
+}
+
+#TekstContainer {
+    background-color: green;
+    color: burlywood;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 30px;
+    
+}
+
+#Right {
+    margin-right: 50%;
+}
+
+#Left {
+    margin-left: 50%;
+}
+
+#Footer {
+    background-color: green;
+    color: burlywood;
+}

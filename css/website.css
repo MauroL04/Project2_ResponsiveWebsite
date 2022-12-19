@@ -4,26 +4,29 @@ body {
 }
 
 /* id's */
-#Navbar {
+#navbar {
     background-color: green;
 }
 
-#Titel {
+#active {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#titel {
     background-color: green;    
     text-align: center;
     padding: 30px;
 }
 
-#TekstContainer {
-    background-color: green;
-    color: burlywood;
-    padding-top: 20px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+#cards {
+    background-color: green;    
+    padding: 10px;    
+    margin-top: 10px;    
+    margin-bottom: 10px;
 }
 
-#Footer {
-    margin-top: 20px;
+#footer {    
     background-color: green;
-    color: burlywood;
+    margin-top: 20px;
 }

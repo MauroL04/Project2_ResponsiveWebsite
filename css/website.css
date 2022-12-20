@@ -2,10 +2,16 @@ body {
     color: burlywood;
     background-color: burlywood;
 }
+h1,h2,h3 { 
+    text-align: center;
+}
+ol {
+    font-size: larger;
+}
 
 /* id's */
-#navbar {
-    background-color: green;
+#navbarNav {
+    font-weight: 600;
 }
 
 #active {
@@ -19,14 +25,28 @@ body {
     padding: 30px;
 }
 
+#rows {
+    padding-top: 50px;
+}
+
 #cards {
-    background-color: green;    
+    background-color: green;
+    border-radius: 7px;    
     padding: 10px;    
     margin-top: 10px;    
     margin-bottom: 10px;
 }
 
+#tekstDiplomas {
+    font-size: larger;
+}
+
+#headList {
+    background-color: burlywood;
+    color: black;
+}
+
 #footer {    
     background-color: green;
-    margin-top: 20px;
+    padding: 10px;
 }

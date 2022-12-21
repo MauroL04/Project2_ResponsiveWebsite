@@ -28,7 +28,8 @@ ol {
 }
 
 .clickimage{
-    width: 300px;
+    height: auto; 
+    width: 100%;
     height: auto;
 }
 

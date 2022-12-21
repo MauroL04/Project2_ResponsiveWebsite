@@ -1,11 +1,4 @@
 
-.image {
-    height: auto; 
-    width: 100%;
-}
-
-
-
 body {
     color: burlywood;
     background-color: burlywood;
@@ -27,6 +20,20 @@ ol {
 
 .tekst {
     font-size: larger;
+}
+
+.image {
+    height: auto; 
+    width: 100%;
+}
+
+.clickimage{
+    width: 300px;
+    height: auto;
+}
+
+.clickimage:hover {
+   border: black solid 1px;
 }
 
 /* id's */

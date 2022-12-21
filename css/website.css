@@ -1,3 +1,11 @@
+
+.image {
+    height: auto; 
+    width: 100%;
+}
+
+
+
 body {
     color: burlywood;
     background-color: burlywood;
